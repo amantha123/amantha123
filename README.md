@@ -2,7 +2,7 @@
 <h3 align="center">Lead Software Quality Assurance Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amantha123&label=Profile%20views&color=0e75b6&style=flat" alt="amantha123" /> </p>
-- 🔭 I’m currently working on <b>Veracity Group Pvt Ltd</b>
+- 🔭 I’m currently working at <b>Veracity Group Pvt Ltd</b>
 
 - 🌱 Completed **Msc Information Technology**
 
